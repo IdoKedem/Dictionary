@@ -1,5 +1,5 @@
 # Dictionary
-Created on August 2020
+This program was created on August 2020
 
 This program takes 2 inputs from the user.
 Every pair of inputs are saved in a Python dictionary after selcting "Save to dictionary", the upper input being the 'key' and the lower one being the 'value'.
